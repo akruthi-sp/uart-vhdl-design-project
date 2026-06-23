@@ -1,4 +1,3 @@
-# uart-vhdl-design-project
 ## Overview
 
 This project presents the design and implementation of a **Universal Asynchronous Receiver and Transmitter (UART)** protocol using VHDL. UART is a widely used serial communication interface that converts parallel data to serial data for transmission and vice versa for reception. This implementation supports configurable baud rates, parity-based error detection, and frame error detection.
